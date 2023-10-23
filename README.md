@@ -7,7 +7,7 @@ This is a simple web-based To-Do List application built with JavaScript, HTML, a
 
 
 
-You can access the live demo of this To-Do List App [here](https://shahin-ahmed86.github.io/To-Do-List-App/).
+You can access the live App of this To-Do List App [Click](https://shahin-ahmed86.github.io/To-Do-List-App/).
 
 ## Features
 
@@ -25,7 +25,7 @@ To run this application locally, you will need a modern web browser.
 
 ### Installation
 
-You don't need to install anything for this web application. You can use it by simply opening the [live demo](https://shahin-ahmed86.github.io/To-Do-List-App/) in your web browser.
+You don't need to install anything for this web application. You can use it by simply opening the [Live Link](https://shahin-ahmed86.github.io/To-Do-List-App/) in your web browser.
 
 If you want to modify the code or host it yourself, you can follow these steps:
 
